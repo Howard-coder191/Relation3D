@@ -1,0 +1,10 @@
+# ninja log v5
+0	15054	1665652543072158326	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/ball_query_gpu.o	6ea395b12f057595
+1	15924	1665652543948155180	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/interpolate_gpu.o	8956a652fc0c2d22
+1	16066	1665652544088154677	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/group_points_gpu.o	82cb7d3afb99004f
+2	16611	1665652544632152723	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/sampling_gpu.o	cabdc58761de2313
+1	16847	1665652544864151890	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/bindings.o	26bae13a40c7dc45
+1	17149	1665652545168150798	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/interpolate.o	a72088ec4da3174e
+0	17294	1665652545312150280	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/ball_query.o	23d82f01c05dcbb
+2	17349	1665652545368150080	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/sampling.o	432edfcae77c4d61
+1	18217	1665652546224147002	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-310/_ext_src/src/group_points.o	e8a6ee7e356e1b0

@@ -1,0 +1,8 @@
+# ninja log v5
+1	18023	1703064568252678542	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/pointgroup_ops.o	bcf0a0d32a8cc10d
+0	18616	1703064568848669284	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/cuda.o	444f14fa6ba28fb6
+1	23004	1703064573232601244	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/pointgroup_ops_api.o	74861af02361f894
+4	14668	1703074646592362260	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/pointgroup_ops.o	333e4fab7e6a0582
+4	18562	1703074650488271781	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/pointgroup_ops_api.o	fbcc343b29801aae
+3	22295	1703074654232185028	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/cuda.o	346f4f6cbb07ecac
+23	20247	1703076762982275576	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/build/temp.linux-x86_64-cpython-37/pointgroup_ops/src/cuda.o	54eda45f7a48925b

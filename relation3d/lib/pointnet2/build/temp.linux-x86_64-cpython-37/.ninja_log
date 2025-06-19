@@ -1,0 +1,19 @@
+# ninja log v5
+1	17199	1664468079963964401	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/group_points_gpu.o	ac60a43c8598332c
+1	19268	1664468082035944418	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/ball_query_gpu.o	11cc78d3e70242fc
+2	19477	1664468082243942416	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/interpolate_gpu.o	68963a5e4c3a4f2f
+2	19850	1664468082615938835	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/sampling_gpu.o	edacb78436a3651c
+0	25759	1664468088519882205	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/ball_query.o	6f9bb3733efc9bcd
+1	26000	1664468088755879949	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/interpolate.o	4debc3a751b03ed
+1	26542	1664468089299874752	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/group_points.o	8926622504325b89
+2	27918	1664468090667861699	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/sampling.o	b238f767243949b7
+1	28863	1664468091611852704	/ssd/ljh/3d_ins/Mask3D/third_party/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/bindings.o	f5f496b935b40c84
+4	14097	1709430698587046097	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/group_points_gpu.o	a9317365599e27b9
+3	14151	1709430698639045978	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/ball_query_gpu.o	4aedbe32a74a2fc5
+4	14454	1709430698943045289	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/interpolate_gpu.o	53e59eb607a03743
+5	14507	1709430698995045172	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/sampling_gpu.o	3b431139cb355552
+3	19071	1709430703543034824	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/bindings.o	2d7473bb6669fe71
+4	19750	1709430704227033260	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/interpolate.o	44d58ce887873177
+3	20026	1709430704503032630	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/ball_query.o	ce4485f9f12fb1a8
+5	20078	1709430704555032511	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/sampling.o	5ddd7aba79fbc2c0
+4	20214	1709430704691032200	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/maft/lib/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/group_points.o	2e55cc233036dfed

@@ -1,0 +1,10 @@
+# ninja log v5
+0	6699	1703064524949356151	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/lib/attention_rpe_ops/build/temp.linux-x86_64-cpython-37/src/attention/attention_cuda.o	c7c4526d1070f71d
+1	17588	1703064535825185023	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/lib/attention_rpe_ops/build/temp.linux-x86_64-cpython-37/src/attention/attention_cuda_kernel.o	2eb1bab3b17608d8
+1	20396	1703064538633140945	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/lib/attention_rpe_ops/build/temp.linux-x86_64-cpython-37/src/attention_rpe_api.o	a9e1c42e51af9caa
+5	19018	1703074498543972293	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/lib/attention_rpe_ops/build/temp.linux-x86_64-cpython-37/src/attention_rpe_api.o	1d96e0af895937cd
+5	27908	1703074507447744800	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/lib/attention_rpe_ops/build/temp.linux-x86_64-cpython-37/src/attention/attention_cuda_kernel.o	65178915db3625ad
+20	6912	1703074585297814534	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/lib/attention_rpe_ops/build/temp.linux-x86_64-cpython-37/src/attention/attention_cuda.o	ea443ccd179ba997
+21	18020	1703074596389547579	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/lib/attention_rpe_ops/build/temp.linux-x86_64-cpython-37/src/attention_rpe_api.o	90ffc1f48c2c62db
+21	21922	1703074600305453784	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/lib/attention_rpe_ops/build/temp.linux-x86_64-cpython-37/src/attention/attention_cuda_kernel.o	f85d28f3b7bf8772
+21	21193	1703076736797923575	/ssd/ljh/3d_ins/Mask-Attention-Free-Transformer/lib/attention_rpe_ops/build/temp.linux-x86_64-cpython-37/src/attention/attention_cuda_kernel.o	bf374a65716f8a27
