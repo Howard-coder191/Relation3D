@@ -132,6 +132,11 @@ If you find this project useful, please consider citing:
 }
 ```
 
+# Acknowledgements
+Our code is based on [Mask3D](https://github.com/JonasSchult/Mask3D), [MAFT](https://github.com/dvlab-research/Mask-Attention-Free-Transformer), [Relation-DETR](https://github.com/xiuqhou/Relation-DETR). We thank the authors for their excellent work!
+
 # Our Recent Works on 3D Point Cloud
 
 * **SAS: Segment Any 3D Scene with Integrated 2D Priors** [\[Paper\]](https://arxiv.org/pdf/2503.08512) [\[Code\]](https://github.com/peoplelu/SAS) : The first work attempts to integrate multiple 2D scene understanding models for 3D tasks.
+
+
