@@ -136,7 +136,7 @@ class ScanNetDataset(Dataset):
         else:
             xyz, rgb = torch.load(filename)
             scene_id = filename.split('/')[-1][:12]
-            superpoint = torch.load(filename.replace(self.suffix, "_normals.pth"))
+            superpoint = torch.load(filename.replace(self.suffix, "_superpoints.pth"))
             dummy_sem_label = np.zeros(xyz.shape[0], dtype=np.float32)
             dummy_inst_label = np.zeros(xyz.shape[0], dtype=np.float32)
             return xyz, rgb, superpoint, dummy_sem_label, dummy_inst_label, normal
