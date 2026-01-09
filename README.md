@@ -1,6 +1,6 @@
 [CVPR 2025] Relation3D: Enhancing Relation Modeling for Point Cloud Instance Segmentation [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Lu_Relation3D__Enhancing_Relation_Modeling_for_Point_Cloud_Instance_Segmentation_CVPR_2025_paper.pdf)
 
-Jiahao Lu and Jiacheng Deng 
+[Jiahao Lu]([https://scholar.google.com/citations?hl=zh-CN&user=cRpteW4AAAAJ&view_op=list_works](https://github.com/jiah-cloud)) and [Jiacheng Deng](https://scholar.google.com/citations?user=-0y0FpkAAAAJ&hl=zh-CN)
 
 <div align="center">
   <img src="figs/framework_00_rotated.png"/>
